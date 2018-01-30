@@ -11,7 +11,7 @@ import (
 	"time"
 
 	"github.com/go-pg/pg"
-	"github.com/tolexo/aero/conf"
+	"github.com/imtolexo/aero/conf"
 )
 
 var (

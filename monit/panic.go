@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/tolexo/aero/conf"
+	"github.com/imtolexo/aero/conf"
 )
 
 var (

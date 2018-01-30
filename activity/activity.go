@@ -2,8 +2,8 @@ package activity
 
 import (
 	"fmt"
-	"github.com/tolexo/aero/activity/model"
-	"github.com/tolexo/aero/db/tmongo"
+	"github.com/imtolexo/aero/activity/model"
+	"github.com/imtolexo/aero/db/tmongo"
 	"gopkg.in/mgo.v2"
 	"time"
 )

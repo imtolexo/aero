@@ -2,8 +2,8 @@ package monit
 
 import (
 	"fmt"
-	"github.com/tolexo/aero/conf"
-	"github.com/tolexo/aero/panik"
+	"github.com/imtolexo/aero/conf"
+	"github.com/imtolexo/aero/panik"
 	"log"
 	"net/http"
 	"net/http/httptest"

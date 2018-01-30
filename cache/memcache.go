@@ -2,8 +2,8 @@ package cache
 
 import (
 	"github.com/kklis/gomemcache"
-	"github.com/tolexo/aero/conf"
-	"github.com/tolexo/aero/panik"
+	"github.com/imtolexo/aero/conf"
+	"github.com/imtolexo/aero/panik"
 	"time"
 )
 

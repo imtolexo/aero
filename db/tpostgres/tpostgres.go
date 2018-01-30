@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 	"github.com/jinzhu/gorm"
-	"github.com/tolexo/aero/conf"
+	"github.com/imtolexo/aero/conf"
 	"math/rand"
 )
 

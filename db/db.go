@@ -3,7 +3,7 @@ package db
 import (
 	"fmt"
 	_ "github.com/go-sql-driver/mysql"
-	"github.com/tolexo/aero/conf"
+	"github.com/imtolexo/aero/conf"
 	"math/rand"
 	"net/url"
 )

@@ -6,7 +6,7 @@ import (
 	"net/url"
 
 	"github.com/jinzhu/gorm"
-	"github.com/tolexo/aero/conf"
+	"github.com/imtolexo/aero/conf"
 )
 
 var connMySqlWrite string

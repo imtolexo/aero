@@ -3,7 +3,7 @@ package tmongo
 import (
 	"errors"
 	"fmt"
-	"github.com/tolexo/aero/conf"
+	"github.com/imtolexo/aero/conf"
 	"gopkg.in/mgo.v2"
 	"time"
 )

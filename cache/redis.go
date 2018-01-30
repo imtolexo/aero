@@ -2,8 +2,8 @@ package cache
 
 import (
 	"fmt"
-	"github.com/tolexo/aero/conf"
-	"github.com/tolexo/aero/panik"
+	"github.com/imtolexo/aero/conf"
+	"github.com/imtolexo/aero/panik"
 	"gopkg.in/redis.v3"
 	"time"
 )

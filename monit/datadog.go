@@ -3,7 +3,7 @@ package monit
 import (
 	"errors"
 	"github.com/ooyala/go-dogstatsd"
-	"github.com/tolexo/aero/conf"
+	"github.com/imtolexo/aero/conf"
 	"sync"
 )
 

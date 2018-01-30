@@ -1,8 +1,8 @@
 package cache
 
 import (
-	"github.com/tolexo/aero/conf"
-	"github.com/tolexo/aero/panik"
+	"github.com/imtolexo/aero/conf"
+	"github.com/imtolexo/aero/panik"
 	"strings"
 	"time"
 )
